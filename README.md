@@ -31,4 +31,4 @@ If I am not doing physics or coding, I am a bookworm (I like very much reading).
   <a href="https://twitter.com/Tanjona_Phys"><img src="https://github.com/Radonirinaunimi/Radonirinaunimi/blob/master/svg/social/twitter.svg" style="vertical-align:top margin:6px 4px" width=72.8></a>
 </p>
 
-![MyStats](https://github-readme-stats.vercel.app/api?username=Radonirinaunimi&show_icons=true&hide=["contribs","stars"])
+![MyStats](https://github-readme-stats.vercel.app/api?username=Radonirinaunimi&hide=["contribs","stars"])
