@@ -14,21 +14,23 @@ If I am not doing physics or coding, I am a bookworm (I like very much reading).
 </p>
 
 #### I speak a few languages
+<!--https://github.com/Ileriayo/markdown-badges-->
 <p align="left">
-  <img src="https://github.com/Radonirinaunimi/Radonirinaunimi/blob/master/svg/dev/languages/csharp.svg" alt="html" style="vertical-align:top margin:6px 4px" width=50>
-  <img src="https://github.com/Radonirinaunimi/Radonirinaunimi/blob/master/svg/dev/languages/python.svg" alt="html" style="vertical-align:top margin:6px 4px" width=71>
-  <img src="https://github.com/Radonirinaunimi/Radonirinaunimi/blob/master/svg/dev/languages/js.svg" alt="html" style="vertical-align:top margin:6px 4px" width=85>
-  <img src="https://github.com/Radonirinaunimi/Radonirinaunimi/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top margin:6px 4px" width=66>
-  <img src="https://github.com/Radonirinaunimi/Radonirinaunimi/blob/master/svg/dev/languages/r.svg" alt="html" style="vertical-align:top margin:6px 4px" width=49>
-  <img src="https://github.com/Radonirinaunimi/Radonirinaunimi/blob/master/svg/dev/tools/bash.svg" alt="html" style="vertical-align:top margin:6px 4px" width=60>
+  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 
 #### Connect with me via
 <p align="left">
-  <img src="https://github.com/Radonirinaunimi/Radonirinaunimi/blob/master/svg/social/skype.svg" alt="html" style="vertical-align:top margin:6px 4px" width=67>
-  <a href="https://www.linkedin.com/in/rabemananjara-tanjona-radonirina-6ab726120/"><img src="https://github.com/Radonirinaunimi/Radonirinaunimi/blob/master/svg/social/linkedin.svg" alt="html" style="vertical-align:top margin:6px 4px" width=80></a>
-  <a href="https://twitter.com/Tanjona_Phys"><img src="https://github.com/Radonirinaunimi/Radonirinaunimi/blob/master/svg/social/twitter.svg" style="vertical-align:top margin:6px 4px" width=72.8></a>
+  <img src="https://img.shields.io/badge/rtanjonaradonirina%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"" alt="html"/>
+  <a href="https://www.linkedin.com/in/rabemananjara-tanjona-radonirina-6ab726120/"><img src="https://img.shields.io/badge/Tanjona%20-%231DA1F3.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/Tanjona_Phys"><img src="https://img.shields.io/badge/Tanjona_Phys%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p>
 
 <p float="left">
