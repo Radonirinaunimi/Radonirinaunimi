@@ -44,10 +44,12 @@ If I am not doing physics or coding, I am a bookworm (I like very much reading).
   <a href="https://twitter.com/Tanjona_Phys"><img src="https://img.shields.io/badge/Tanjona_Phys%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p>
 
+### Github Activities
+---------------------
 <p float="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radonirinaunimi&theme=default" width="100%" />
-  <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/3-stats.svg" width="400" />
-  <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/4-productive-time.svg" width="400" />
-  <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/1-repos-per-language.svg" width="400" />
-  <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/2-most-commit-language.svg" width="400" />
+  <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/3-stats.svg" width="430" />
+  <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/4-productive-time.svg" width="430" />
+  <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/1-repos-per-language.svg" width="430" />
+  <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/2-most-commit-language.svg" width="430" />
 </p>
