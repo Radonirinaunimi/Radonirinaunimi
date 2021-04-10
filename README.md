@@ -48,7 +48,7 @@ If I am not doing physics or coding, I am a bookworm (I like very much reading).
 ---------------------
 <table style="width:100%">
   <tr>
-  <td colspan="3"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radonirinaunimi&theme=default" width="1000" /> </td>
+  <td colspan="3"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radonirinaunimi&theme=default" /> </td>
   </tr>
   <tr>
   <td> <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/3-stats.svg" /> </td>
