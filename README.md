@@ -16,6 +16,7 @@ If I am not doing physics or coding, I am a bookworm (I like very much reading).
 #### I speak a few languages
 <!--https://github.com/Ileriayo/markdown-badges-->
 <p align="left">
+  <img src="https://img.shields.io/badge/fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/julia%20-%231572B6.svg?&style=for-the-badge&logo=julia&logoColor=white"/>
@@ -32,16 +33,17 @@ If I am not doing physics or coding, I am a bookworm (I like very much reading).
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img alt="Scikit" src="https://img.shields.io/badge/scikit%20-%F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 
 #### Connect with me via
 <p align="left">
-  <img src="https://img.shields.io/badge/rtanjonaradonirina%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"" alt="html"/>
-  <a href="https://www.linkedin.com/in/rabemananjara-tanjona-radonirina-6ab726120/"><img src="https://img.shields.io/badge/Tanjona%20-%231DA1F3.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/Tanjona_Phys"><img src="https://img.shields.io/badge/Tanjona_Phys%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://orcid.org/0000-0002-8395-8059"><img src="https://img.shields.io/badge/orcid-199900?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+  <a href="skype:rtanjonaradonirina?add"><img src="https://img.shields.io/badge/skype%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rabemananjara-tanjona-radonirina-6ab726120/"><img src="https://img.shields.io/badge/linkedin%20-%231DA1F3.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/Tanjona_Phys"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href=" https://wa.me/393512301961"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href=" https://wa.me/393512301961"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
