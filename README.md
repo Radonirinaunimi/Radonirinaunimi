@@ -42,10 +42,11 @@ If I am not doing physics or coding, I am a bookworm (I like very much reading).
   <img src="https://img.shields.io/badge/rtanjonaradonirina%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"" alt="html"/>
   <a href="https://www.linkedin.com/in/rabemananjara-tanjona-radonirina-6ab726120/"><img src="https://img.shields.io/badge/Tanjona%20-%231DA1F3.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/Tanjona_Phys"><img src="https://img.shields.io/badge/Tanjona_Phys%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href=" https://wa.me/393512301961"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href=" https://wa.me/393512301961"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ### Github Activities
----------------------
 <table style="width:100%">
   <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radonirinaunimi&theme=default" width="1100" /> </td>
 </table>
