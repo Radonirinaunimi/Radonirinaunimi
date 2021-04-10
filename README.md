@@ -20,12 +20,14 @@ If I am not doing physics or coding, I am a bookworm (I like very much reading).
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/julia%20-%231572B6.svg?&style=for-the-badge&logo=julia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mathematica-DD1100?style=for-the-badge&logo=wolfram-mathematica&logoColor=white"/>
 </p>
 
 #### Machine Learning frameworks
@@ -48,6 +50,7 @@ If I am not doing physics or coding, I am a bookworm (I like very much reading).
   <a href=" https://wa.me/393512301961"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
+
 ### Github Activities
 <table style="width:100%">
   <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radonirinaunimi&theme=default" width="1100" /> </td>
@@ -59,3 +62,10 @@ If I am not doing physics or coding, I am a bookworm (I like very much reading).
   <td> <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/2-most-commit-language.svg" /> </td>
   </tr>
 </table>
+
+
+<details markdown="1">
+  <summary style="font-weight:bold">Work setups</summary>
+  
+  #### Main
+</details>
