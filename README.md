@@ -46,9 +46,13 @@ If I am not doing physics or coding, I am a bookworm (I like very much reading).
 
 ### Github Activities
 ---------------------
-<p float="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radonirinaunimi&theme=default" width="1000" />
-  <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/3-stats.svg" width="280" height="200" />
-  <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/1-repos-per-language.svg" width="280" height="200" />
-  <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/2-most-commit-language.svg" width="280" height="200" />
-</p>
+<table style="width:100%">
+  <tr>
+  <td colspan="3"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radonirinaunimi&theme=default" width="1000" /> </td>
+  </tr>
+  <tr>
+  <td> <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/3-stats.svg" /> </td>
+  <td> <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/1-repos-per-language.svg" /> </td>
+  <td> <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/2-most-commit-language.svg" /> </td>
+  </tr>
+</table>
