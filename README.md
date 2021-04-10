@@ -53,13 +53,14 @@ If I am not doing physics or coding, I am a bookworm (I like very much reading).
 
 ### Github Activities
 <table style="width:100%">
-  <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radonirinaunimi&theme=default" width="1100" /> </td>
+  <td colspan="2"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radonirinaunimi&theme=default"/> </td>
+  <td> <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/4-productive-time.svg"/> </td>
 </table>
 <table style="width:100%">
   <tr>
-  <td> <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/3-stats.svg" /> </td>
-  <td> <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/1-repos-per-language.svg" /> </td>
-  <td> <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/2-most-commit-language.svg" /> </td>
+  <td> <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/3-stats.svg"/> </td>
+  <td> <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/1-repos-per-language.svg"/> </td>
+  <td> <img src="https://raw.githubusercontent.com/Radonirinaunimi/Radonirinaunimi/master/profile-summary-card-output/default/2-most-commit-language.svg"/> </td>
   </tr>
 </table>
 
