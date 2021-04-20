@@ -68,5 +68,52 @@ If I am not doing physics or coding, I am a bookworm (I like very much reading).
 <details markdown="1">
   <summary style="font-weight:bold">Work setups</summary>
   
-  #### Main
+  #### Desktop:
+  <table style="width:50%">
+  <tr>
+    <td><b>OS</b></td> <td><img src="https://img.shields.io/badge/arch_linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/> </td>
+  </tr>
+  <tr>
+    <td><b>CPU</b></td> <td><img src="https://img.shields.io/badge/amd_ryzen_5_2600_(3ghz4)-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> </td>
+  </tr>
+  <tr>
+    <td><b>GPU</b></td> <td><img src="https://img.shields.io/badge/gtx_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> </td>
+  </tr>
+  <tr>
+    <td><b>RAM</b></td> <td><img src="https://img.shields.io/badge/corsair_16_gb_(dual_channel)-000000?style=for-the-badge&logo=corsair&logoColor=white"/> </td>
+  </tr>
+  </table>
+  
+  #### Laptop 1:
+  <table style="width:50%">
+  <tr>
+    <td> </td> <td><img src="https://img.shields.io/badge/dell_xps_13-007DB8?style=for-the-badge&logo=dell&logoColor=white"/> </td>
+  </tr>
+  <tr>
+    <td><b>OS</b></td> <td><img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/> </td>
+  </tr>
+  <tr>
+    <td><b>CPU</b></td> <td><img src="https://img.shields.io/badge/intel_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> </td>
+  </tr>
+  <tr>
+    <td><b>RAM</b></td> <td><img src="https://img.shields.io/badge/16_gb_(single_channel)-000000?style=for-the-badge&logo=corsair&logoColor=white"/> </td>
+  </tr>
+  </table>
+  
+  #### Laptop 2:
+  <table style="width:50%">
+  <tr>
+    <td> </td> <td><img src="https://img.shields.io/badge/acer_predator_17-83B81A?style=for-the-badge&logo=acer&logoColor=white"/> </td>
+  </tr>
+  <tr>
+    <td><b>OS</b></td> <td><img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/> </td>
+  </tr>
+  <tr>
+    <td><b>CPU</b></td> <td><img src="https://img.shields.io/badge/intel_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> </td>
+  </tr>
+  <tr>
+    <td><b>RAM</b></td> <td><img src="https://img.shields.io/badge/8_gb_(single_channel)-000000?style=for-the-badge&logo=corsair&logoColor=white"/> </td>
+  </tr>
+  </table>
+  
 </details>
