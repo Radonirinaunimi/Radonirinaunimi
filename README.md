@@ -77,7 +77,7 @@ If I am not doing physics or coding, I am a bookworm (I like very much reading).
     <td><b>CPU</b></td> <td><img src="https://img.shields.io/badge/amd_ryzen_5_2600_(3ghz4)-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> </td>
   </tr>
   <tr>
-    <td><b>GPU</b></td> <td><img src="https://img.shields.io/badge/gtx_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> </td>
+    <td><b>GPU</b></td> <td><img src="https://img.shields.io/badge/rtx_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> </td>
   </tr>
   <tr>
     <td><b>RAM</b></td> <td><img src="https://img.shields.io/badge/corsair_16_gb_(dual_channel)-000000?style=for-the-badge&logo=corsair&logoColor=white"/> </td>
