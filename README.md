@@ -46,7 +46,6 @@ If I am not doing physics or coding, I am a bookworm (I like very much reading).
   <a href="skype:rtanjonaradonirina?add"><img src="https://img.shields.io/badge/skype%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rabemananjara-tanjona-radonirina-6ab726120/"><img src="https://img.shields.io/badge/linkedin%20-%231DA1F3.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/Tanjona_Phys"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href=" https://wa.me/393512301961"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href=" https://wa.me/393512301961"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href=" https://telegram.me/tjrado"><img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
