@@ -4,13 +4,13 @@
 <img align="right" src="https://github.com/Radonirinaunimi/Style-Transfer/blob/master/imgs/styled_image.jpg" width="36%"/>
 
 <p align="justify">
-My name is Tanjona. I am currently a PhD candidate in Theoretical Physics at the <a target="_blank" href="https://www.unimi.it/en">Università degli Studi di Milano</a> working on the <a target="_blank" href="n3pdf.mi.infn.it/">N3PDF</a> project. My main research interests lie in the area of the theory of strong interactions (in particular QCD) and Machine Learning. Have a look <a target="_blank" href="https://radonirinaunimi.github.io/myResume/">here</a> for a short resume.
+My name is Tanjona. I am currently a Postdoctoral researcher at <a target="_blank" href="https://www.nikhef.nl/">NIKHEF</a> and <a target="_blank" href="https://vu.nl/en">VU</a> Amsterdam, Netherlands. I was previously a PhD at <a target="_blank" href="https://www.unimi.it/en">Università degli Studi di Milano</a> (Milan, Italy) working with the <a target="_blank" href="n3pdf.mi.infn.it/">N3PDF</a> group. My main research interests lie in the area of the theory of strong interactions (QCD) and Machine Learning. Have a look <a target="_blank" href="https://radonirinaunimi.github.io/myResume/">here</a> for a short resume.
 </p>
 <p align="justify">
 If I am not doing physics or coding, I am a bookworm (I like very much reading). I am also passionate about GNU/linux in gerenal, you can check my <a target="_blank" href="https://crispgm.com/page/the-fascinating-arch-linux-rice.html">RICE</a> <a target="_blank" href="https://github.com/Radonirinaunimi/dotfiles">here</a> where I include all my dotfiles. I also enjoy watching movies, wandering in parks, and running at times to maintain a work-life balance.
 </p>
 <p align="justify">
-:milky_way: The image on the right combines the simulation of particle collisions (in particle colliders) with the Starry Night of Van Gogh using a technique known as <b>Image Style Transfer</b>. It was generated using the <a target="_blank" href="https://github.com/Radonirinaunimi/Style-Transfer">timst</a> package (built with pytorch) which is based on Convolutional Neural Networks.
+:milky_way: The image on the right combines the simulation of particle collisions (in particle colliders) with the Starry Night of Van Gogh using a technique known as <b>Image Style Transfer</b>. It was generated using the <a target="_blank" href="https://github.com/Radonirinaunimi/Style-Transfer">timst</a> package.
 </p>
 
 #### I speak a few languages
