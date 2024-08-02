@@ -13,7 +13,7 @@ If I am not doing physics or coding, I am a bookworm (I like very much reading).
 :milky_way: The image on the right combines the simulation of particle collisions (in particle colliders) with the Starry Night of Van Gogh using a technique known as <b>Image Style Transfer</b>. It was generated using the <a target="_blank" href="https://github.com/Radonirinaunimi/Style-Transfer">timst</a> package.
 </p>
 
-#### I speak a few languages
+#### Languages
 <!--https://github.com/Ileriayo/markdown-badges-->
 <p align="left">
   <img src="https://img.shields.io/badge/fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white"/>
