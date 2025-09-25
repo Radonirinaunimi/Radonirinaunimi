@@ -16,7 +16,8 @@ Selected projects
 - [Radonirinaunimi/neopdf](https://github.com/Radonirinaunimi/neopdf): A fast Rust library for interpolating collinear and TMD parton distribution functions
 - [NNPDF/nnpdf](https://github.com/NNPDF/nnpdf): A Python Machine Learning framework for global analyses of parton distribution functions
 - [NNPDF/nnusf/](https://github.com/NNPDF/nnusf/): A Python Machine Learning framework for extracting all-energy neutrino structure functions
-- [N3PDF/ganpdfs](https://github.com/N3PDF/ganpdfs): A Python library to bootstrap parton distribution functions using Generative Adversarial Networks
+- [N3PDF/ganpdfs](https://github.com/N3PDF/ganpdfs): A Python library to bootstrap parton distribution functions using Generative Adversarial Networks (GANs)
 - [NNPDF/pineappl](https://github.com/NNPDF/pineappl): A Rust library to produce fast-interpolation grids for physical cross-sections
 - [N3PDF/pycompressor](https://github.com/N3PDF/pycompressor): A fast compression algorithm for parton distribution functions
-- [N3PDF/HpT-MON](https://github.com/N3PDF/HpT-MON): A C++ package to compute differential Higgs-pt cross-sections from gluon fusion up to NNLO
+- [N3PDF/HpT-MON](https://github.com/N3PDF/HpT-MON): A C++ package to compute differential Higgs-pT cross-sections from gluon fusion up to NNLO
+- [N3PDF/HpT-N3LO](https://github.com/N3PDF/HpT-N3LO): A C++ package to compute the approximate Higgs-pT distributions using combined resummation
