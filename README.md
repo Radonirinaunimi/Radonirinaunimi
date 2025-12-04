@@ -13,6 +13,7 @@ Hi there 👋, I'm Tanjona
 
 Selected projects
 -----------------
+- [QCDLab/mchep](https://github.com/QCDLab/mchep): A highly parallelizable Monte Carlo integration routine with support for SIMD and GPU acceleration
 - [QCDLab/neopdf](https://github.com/QCDLab/neopdf): A Rust library for interpolating collinear and transverse momentum-dependent parton distributions
 - [NNPDF/nnpdf](https://github.com/NNPDF/nnpdf): A Python Machine Learning framework for global analyses of parton distribution functions
 - [NNPDF/nnusf/](https://github.com/NNPDF/nnusf/): A Python Machine Learning framework for extracting all-energy neutrino structure functions
