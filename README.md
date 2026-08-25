@@ -8,7 +8,8 @@ Hi there 👋, I'm Tanjona
   <a target="_blank" href="https://www.gnu.org/software/bash/">Bash</a>, <a target="_blank" href="https://www.r-project.org/">R</a>,
   and <a target="_blank" href="https://julialang.org/">Julia</a>. I have hands-on experience with machine learning frameworks
   such as <a target="_blank" href="https://www.tensorflow.org/">Tensorflow</a>, <a target="_blank" href="https://keras.io/">Keras</a>,
-  and <a target="_blank" href="https://pytorch.org/">Pytorch</a>. Have a look at some of my projects.
+  and <a target="_blank" href="https://pytorch.org/">Pytorch</a>. Furthermore, I created <a target="_blank" href="https://github.com/QCDLab">QCDLab</a>
+  with the aim to make scientific numerical tools efficient, fast, scalable, and well-documented. Have a look at some of my projects.
 </p>
 
 Selected projects
