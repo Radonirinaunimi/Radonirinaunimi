@@ -2,7 +2,7 @@ Hi there 👋, I'm Tanjona
 ------------------------
 
 <p align="justify">
-  I am a particle physicits and computer/data scientist who solves problems using numerical tools and machine learning with
+  I am a physicist and computer/data scientist who solves problems using numerical tools and machine learning with
   languages such as <a target="_blank" href="https://www.python.org/">Python</a>, <a target="_blank" href="https://www.rust-lang.org/">Rust</a>,
   <a target="_blank" href="https://isocpp.org/">C++</a>, C, <a target="_blank" href="https://fortran-lang.org/">Fortran</a>,
   <a target="_blank" href="https://www.gnu.org/software/bash/">Bash</a>, <a target="_blank" href="https://www.r-project.org/">R</a>,
